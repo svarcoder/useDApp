@@ -1,0 +1,9 @@
+.wrapper {
+	padding: 20px 60px;
+}
+
+@media screen and (max-width: 768px) {
+	.grid_mobile {
+		width: 100% !important;
+	}
+}
